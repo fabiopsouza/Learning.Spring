@@ -1,5 +1,5 @@
 # Learning.Spring
-Projetos para testes/experiências com Spring
+Projects for experiments with Spring
 <ul>
   <li>Spring MVC</li>
   <li>JPA 2 com Hibernate</li>
