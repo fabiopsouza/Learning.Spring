@@ -1,4 +1,4 @@
-# Projects for experiments with Spring
+# Projects to study Spring
 <ul>
   <li>Spring MVC</li>
   <li>JPA 2 com Hibernate</li>
